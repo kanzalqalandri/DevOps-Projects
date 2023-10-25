@@ -1,0 +1,45 @@
+1: Deploy Java Application on AWS 3-Tier Architect
+
+https://devopsrealtime.com/deploy-java-application-on-aws-3-tier-architecture/
+
+2: Deploy Apache web-server using Terraform IaC
+
+https://devopsrealtime.com/deploy-apache-web-server-using-terraform-iac/
+
+3: Deploy Scalable VPC Architect on AWS Cloud
+
+https://devopsrealtime.com/deploy-scalable-vpc-architecture-on-aws-cloud/
+
+4: Deploy HTML based statis web application on AWS EC2
+
+https://devopsrealtime.com/deploy-html-based-static-web-application-on-aws-ec2/
+
+5: Deckerize a JAVA Web Application using Docker-Compose 
+
+https://devopsrealtime.com/dockerize-a-java-web-application-using-docker-compose/
+
+6: Linux for Cloud & DevOps Engineers
+
+https://devopsrealtime.com/fun-with-linux-for-cloud-devops-engineers/
+
+7: Deploy Lambda function to create weekly EC2 AMI Backup 
+
+https://devopsrealtime.com/deploy-lambda-function-to-create-weekly-ec2-ami-backup/
+
+8: Ansible Automation to configure Tomcat on multi environment 
+
+https://devopsrealtime.com/deploy-lambda-function-to-create-weekly-ec2-ami-backup/
+
+9: GitHub and BitBucket Migration 
+
+https://devopsrealtime.com/github-to-bitbucket-migration/
+
+10: Deploy Scalable VPC Architect on AWS Cloud 
+
+https://devopsrealtime.com/deploy-scalable-vpc-architecture-on-aws-cloud/
+
+11: Deploy Disaster Recovery of Workloads on AWS: Warm Standby
+
+https://devopsrealtime.com/deploy-disaster-recovery-of-workloads-on-aws-warm-standby/
+
+
